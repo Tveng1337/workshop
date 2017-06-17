@@ -1,0 +1,17 @@
+{
+  "name": "nightwatch_17_06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "setup": "node selenium-download.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.25.0",
+    "geckodriver": "^1.7.1",
+    "nightwatch": "^0.9.16",
+    "selenium-download": "^2.0.10"
+  }
+}

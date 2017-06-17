@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="login"
+    errors="0" failures="1" hostname="" id="" package="login" skipped="0"
+    tests="1" time="13.12" timestamp="Sat, 17 Jun 2017 06:25:28 GMT">
+  
+    <testcase name="Log in" classname="login" time="13.12" assertions="1">  <failure message="Timed out while waiting for element &lt;input[type=email]&gt; to be present for 10000 milliseconds.">    at Object.login (/home/ttt/Projects/nightwatch_17_06/pages/login.js:4:8)
+    at Object.Log in (/home/ttt/Projects/nightwatch_17_06/tests/login.js:8:10)</failure>
+<system-out>[[ATTACHMENT|/home/ttt/Projects/nightwatch_17_06/nightwatchscreenshots/login/Log-in_ERROR_Jun-17-2017-092541-GMT+0300.png]]</system-out>
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
